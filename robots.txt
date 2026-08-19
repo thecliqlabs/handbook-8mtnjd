@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://thecliqlabs.github.io/handbook-8mtnjd/sitemap.xml
